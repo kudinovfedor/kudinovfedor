@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fedor Kudinov  
+# 👋 Hi, I'm Fedir Kudinov  
 
 💻 **Senior Software Engineer | Team Lead | Salesforce B2C Commerce Cloud Developer**  
 🔹 10+ years in development | 2+ years leading teams (2–11 people)  
