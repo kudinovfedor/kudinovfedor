@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Fedir Kudinov  
 
-💻 **Senior Software Engineer | Team Lead | Salesforce B2C Commerce Cloud Developer**  
-🔹 10+ years in development | 2+ years leading teams (2–11 people)  
+💻 **Senior Software Engineer | Team Lead**  
+🔹 12+ years in development | 3+ years leading teams (2–11 people)  
 🔹 Experience in web development, integrations, and process optimization  
 🔹 Improving workflows, automating routine tasks, and mentoring developers  
 
 ## 🔧 Tech Stack  
 
 ### **Primary Technologies:**  
-✔ **Frontend:** HTML5, CSS3 (Sass, BEM, Bootstrap, Flexbox), JavaScript (ES6+)  
+✔ **Frontend:** HTML5, CSS3 (Sass, BEM, Bootstrap, Flexbox), JavaScript (ES6+, Node.js, React, Next.js, TypeScript)  
 ✔ **Backend:** PHP (Laravel, WordPress), MySQL, API (REST)  
-✔ **Salesforce B2C Commerce Cloud:** SFRA, Jobs, Services, Hooks, OCAPI, SCAPI, PWA  
+✔ **Salesforce B2C Commerce Cloud:** SFRA, Jobs, Services, Hooks, OCAPI, SCAPI, PWA Kit, Storefront Next, CAP
 ✔ **DevOps & Tools:** Git (GitLab, GitHub, Bitbucket), CI/CD, Jenkins, Docker, AWS  
 
 ### **Additional Technologies (basic knowledge, occasional experience):**  
 ✔ **PHP CMS:** Joomla, Drupal, Yii2  
-✔ **JavaScript:** Vue.js, Node.js  
+✔ **JavaScript:** Vue.js  
 ✔ **Databases:** Firebase  
 ✔ **Other:** Python (basic), Docker, AWS (entry level)  
 
@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 **[LinkedIn](https://www.linkedin.com/in/fedor-kudinov/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/fedir-kudinov)**
 - 📂 **[GitHub Repositories](https://github.com/kudinovfedor)**
 - 📩 Open to new opportunities and collaborations!  
 
