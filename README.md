@@ -10,7 +10,7 @@
 ### **Primary Technologies:**  
 ✔ **Frontend:** HTML5, CSS3 (Sass, BEM, Bootstrap, Flexbox), JavaScript (ES6+, Node.js, React, Next.js, TypeScript)  
 ✔ **Backend:** PHP (Laravel, WordPress), MySQL, API (REST)  
-✔ **Salesforce B2C Commerce Cloud:** SFRA, Jobs, Services, Hooks, OCAPI, SCAPI, PWA Kit, Storefront Next, CAP
+✔ **Salesforce B2C Commerce Cloud:** SFRA, Jobs, Services, Hooks, OCAPI, SCAPI, PWA Kit, CAP, Storefront Next  
 ✔ **DevOps & Tools:** Git (GitLab, GitHub, Bitbucket), CI/CD, Jenkins, Docker, AWS  
 
 ### **Additional Technologies (basic knowledge, occasional experience):**  
